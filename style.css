@@ -70,7 +70,7 @@ iframe {
     height: 400px;
 }
 .contact {
-    background-color: #30363d;
+    background-color: #30363d  !important;
 }
 .contactList {
     list-style-type: none;
