@@ -69,3 +69,24 @@ iframe {
     width: 500px;
     height: 400px;
 }
+.contact {
+    background-color: #30363d;
+}
+.contactList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    display: block;
+    min-width: 100%;
+}
+.listItem {
+    display: inline;
+    float: center;
+    padding: 5px;
+}
