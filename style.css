@@ -73,16 +73,6 @@ iframe {
     background-color: #30363d  !important;
     color: white;
 }
-.contactList {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    position: absolute;
-    font-size: 15px;
-    display: block;
-    min-width: 100%;
-}
 .listItem {
     float: center;
     padding: 5px;
