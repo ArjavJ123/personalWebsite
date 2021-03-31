@@ -76,4 +76,5 @@ iframe {
 .listItem {
     float: center;
     padding: 5px;
+    color: white !important;
 }
