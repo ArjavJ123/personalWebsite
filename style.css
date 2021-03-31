@@ -71,6 +71,7 @@ iframe {
 }
 .contact {
     background-color: #30363d  !important;
+    color: white;
 }
 .contactList {
     list-style-type: none;
