@@ -83,7 +83,6 @@ iframe {
     min-width: 100%;
 }
 .listItem {
-    display: inline;
     float: center;
     padding: 5px;
 }
