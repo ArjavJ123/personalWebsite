@@ -71,7 +71,7 @@ iframe {
 }
 .contact {
     background-color: #30363d  !important;
-    color: white;
+    color: white !important; 
 }
 .listItem {
     float: center;
